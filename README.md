@@ -66,7 +66,6 @@ This curriculum provides a comprehensive technical foundation for securing moder
 * **BSI Germany**: "Security of AI-Systems: Fundamentals" for a deep dive into adversarial deep learning.
 * **AISA Lab Assets**: Access to the AISA (AI Security Academy) virtual labs for hands-on prompt injection and model extraction exercises.
 
-Would you like me to develop a specific threat model for one of these modules, such as the Agentic AI security framework?
 
 [Episode 1: What is AI Red Teaming?](https://www.youtube.com/watch?v=DabrWAKNQZc)
 

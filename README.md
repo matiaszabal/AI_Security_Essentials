@@ -1,7 +1,11 @@
 # AI_Security_Essentials
 
 This curriculum provides a comprehensive technical foundation for securing modern artificial intelligence systems, moving from basic machine learning vulnerabilities to the complex security challenges of autonomous agentic systems.
-overview 2025 2026
+
+Security & AI Governance: Reducing Risks in AI Systems
+https://www.youtube.com/watch?v=4QXtObc61Lw
+
+Overview 2025 2026
 https://hi120ki.github.io/blog/posts/20260103/
 
 ## AI Security Essentials: Full Curriculum

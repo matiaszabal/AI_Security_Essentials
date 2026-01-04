@@ -66,7 +66,8 @@ https://hi120ki.github.io/blog/posts/20260103/
 * **NCSC/NIST Guidelines**: "Guidelines for Secure AI System Development" (NCSC) and the NIST AI Risk Management Framework (AI RMF 1.0).
 * **MITRE ATLAS**: A knowledge base of adversary tactics and techniques based on real-world observations.
 * **BSI Germany**: "Security of AI-Systems: Fundamentals" for a deep dive into adversarial deep learning.
-* **AISA Lab Assets**: Access to the AISA (AI Security Academy) virtual labs for hands-on prompt injection and model extraction exercises.
+
+https://www.coursera.org/specializations/agentic-ai-development-security
 
 
 [Episode 1: What is AI Red Teaming?](https://www.youtube.com/watch?v=DabrWAKNQZc)
